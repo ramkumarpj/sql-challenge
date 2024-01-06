@@ -1,13 +1,13 @@
 # Data Modelling, Data Engineering and Data Analysis
 
 ## Data Modelling
-The CSV files were inspected and an Entity Relationship Diagram of the tables was created using [https://www.quickdatabasediagrams.com/](https://www.quickdatabasediagrams.com/)
+The CSV files were inspected and an Entity Relationship Diagram(ERD) of the tables was created using [https://www.quickdatabasediagrams.com/](https://www.quickdatabasediagrams.com/)
 
 ![image info](./Entity_Relationship_Diagram.png)
 
 ## Data Engineering
 
-1. The Data Definition Language(DDL) scripts were created based on the ERD diagram.
+1. The Data Definition Language(DDL) scripts were created based on the ERD.
 2. The database table schema was created in a PostgreSQL Database by running the DDL scripts using PgAdmin 
 3. Each CSV file was then imported into its corresponding SQL table.
 
