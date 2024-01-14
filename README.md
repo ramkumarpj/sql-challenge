@@ -47,4 +47,8 @@ SQLs are created for the following analysis
 * Open a Query Tool for EmployeeDB database
 * Run EmployeeSQL/EmployeeDB_DDL.sql to create the tables
 * Import data into each table from files under EmployeeSQL/data
-* Open EmployeeSQL/EmployeeDB_Analysis.sql using Query Tool and run the SQL queries to analyze the data 
+* Open EmployeeSQL/EmployeeDB_Analysis.sql using Query Tool and run the SQL queries to analyze the data
+
+# Disclaimer
+This repo was published for educational purpose only. Copyright 2023-2024 edX Boot Camps LLC. All rights reserved.
+
